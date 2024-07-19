@@ -1,3 +1,5 @@
 # roboshop-shell
 
-Bash Shell Scripting    
+Bash Shell Scripting  
+
+Reflecting from IntelliJ-GitHub-PuttyServer
